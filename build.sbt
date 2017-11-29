@@ -4,7 +4,7 @@ version := "0.1"
 
 organization := "com.foobar"
 
-scalaVersion := "2.12.3"
+scalaVersion := "2.11.11"
 
 // The necessary dependencies can be added here
 
