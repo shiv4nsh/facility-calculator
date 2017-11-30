@@ -6,6 +6,8 @@ organization := "com.foobar"
 
 scalaVersion := "2.11.11"
 
+coverageEnabled := true
+
 // The necessary dependencies can be added here
 
 val sparkVersion = "2.1.0"
